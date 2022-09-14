@@ -20,4 +20,4 @@ stored in the 'static' directory.
 
 👆Web-Based Personal Visiting Card👆
 
-🌟In this way, the age old static paper-bound visiting card is converted into a dynamic & interactive Web-based Visiting card.
+🌟In this way, the age old static paper-bound visiting card is converted into a dynamic & responsive Web-based Visiting card.
